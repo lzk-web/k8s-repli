@@ -9,7 +9,7 @@
 - 💻 跨平台支持
 
 ## 技术栈
-- Python 3.2.5
+- Python 3.12.5
 - Tkinter (GUI)
 - Kubernetes Python Client
 
